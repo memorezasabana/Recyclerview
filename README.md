@@ -14,8 +14,11 @@
 [𝘉𝘢𝘤𝘢 𝘭𝘦𝘣𝘪𝘩 𝘭𝘦𝘯𝘨𝘬𝘢𝘱](https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=id)
 # 𝙋𝙧𝙤𝙟𝙚𝙘𝙩
 - 𝙄𝙘𝙤𝙣 𝘼𝙥𝙡𝙞𝙠𝙖𝙨𝙞
+>.................
 ![Alt Text](https://github.com/memorezasabana/Recyclerview/blob/master/SS_Recyclerview/1.jpg)
 - 𝙇𝙞𝙨𝙩𝙫𝙞𝙚𝙬
+>.................
 ![Alt Text](https://github.com/memorezasabana/Recyclerview/blob/master/SS_Recyclerview/2.jpg)
 - 𝙂𝙧𝙞𝙙𝙫𝙞𝙚𝙬
+>.................
 ![Alt Text](https://github.com/memorezasabana/Recyclerview/blob/master/SS_Recyclerview/3.jpg)
